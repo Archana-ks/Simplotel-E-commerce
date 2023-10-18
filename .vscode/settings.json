@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2B300F",
+        "titleBar.activeBackground": "#3C4416",
+        "titleBar.activeForeground": "#FAFBF3"
+    },
+    "files.autoSave": "afterDelay"
+}
