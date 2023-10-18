@@ -7,8 +7,6 @@
     }
 
 nav {
-    /* background: none; */
-    /* background:rgb(240, 168, 195); */
     background-color: whitesmoke;
     height:80px;
     width:100%;
@@ -28,25 +26,18 @@ nav ul li {
     line-height: 60px;
     margin:0 35px;
     color: black;
-    font-size: 35px;
+    font-size: 20px;
 }
 nav:hover {
     cursor: pointer;
     }
 .icon {
-    font-size: 50px;
+    font-size: 20px;
     width: 70px;
     height: 70px;
     
 }
-.checkbtn {
-    font-size: 50px;
-    float:right;
-    cursor: pointer;
-    display: none;
-}
-#check {
-    display:none;
+
 }
 .image {
     width: 100%;
@@ -78,10 +69,10 @@ nav:hover {
     height:800px;
     }
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 .text {
-    font-size: 25px;
+    font-size: 15px;
 }
 .box {
     display:flex;
@@ -119,13 +110,13 @@ h2 {
     border-bottom-left-radius: 50px;
 }
 h1{
-    font-size: 30px;
+    font-size: 20px;
 }
 h4 {
-    font-size: 25px;
+    font-size: 15px;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
     padding: 10px;
 }
 .btn{
